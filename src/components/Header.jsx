@@ -56,7 +56,9 @@ const Header = () => {
         transition={{ delay: 0.2, type: 'spring', stiffness: 120 }}
       >
         <h1>Mee's Bakes</h1>
+        <p>ⓒ Faithful Ajah 2022</p>
       </motion.div>
+      
     </header>
   )
 }
